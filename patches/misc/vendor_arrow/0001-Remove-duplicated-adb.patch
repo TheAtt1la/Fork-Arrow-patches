@@ -1,7 +1,7 @@
 From 58710ae30278e99ac86b5a1378fbb42ebb97ace8 Mon Sep 17 00:00:00 2001
 From: naz664 <nazimnavas145@gmail.com>
 Date: Sat, 17 Sep 2022 11:57:42 +0000
-Subject: [PATCH 2/2] Remove duplicated adb
+Subject: [PATCH] Remove duplicated adb
 
 Change-Id: I2cd0c6e9933e21796ad273b5d3ffdc289bd1cbb5
 ---
